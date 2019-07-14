@@ -1,1 +1,2 @@
-*.ino linguist-language=Java
+*.ino linguist-language=Arduino
+*.ino linguist-documentation=false
