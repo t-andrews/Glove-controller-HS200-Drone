@@ -1,1 +1,2 @@
-*.pde linguist-vendored
+* linguist-vendored
+*.pde linguist-vendored=false
