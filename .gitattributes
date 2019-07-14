@@ -1,1 +1,1 @@
-*linguist-language=Arduino
+*.pde linguist-vendored=false
